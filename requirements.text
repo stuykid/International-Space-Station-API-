@@ -1,0 +1,8 @@
+
+1. Google requires that you create an app password 
+to get access to you email through external apps. 
+
+2. import requests 
+   import smtplib (Gmail automation tool)
+
+
